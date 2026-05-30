@@ -58,7 +58,7 @@ products = {
         ### 🧪 Especificações e Arquitetura Biomédica
         * **Têxteis e Estrutura:** Base em tecidos elásticos de Lycra ou Spandex para garantir que os sensores fiquem colados à pele sem restringir o movimento voluntário.
         * **Fios Condutores:** Uso de fios condutores de prata ou aço inoxidável costurados no próprio tecido.
-        * **Módulo IMU:** MPU6050 ou BNO055 posicionado no dorso da mão.
+        * **Módulo IMU:** MPU6050 posicionado no dorso da mão.
         """,
     },
     "Pulseira de Monitorização": {
